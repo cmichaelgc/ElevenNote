@@ -55,9 +55,9 @@ namespace ElevenNote.Web
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+              appId: "275927649499302",
+               appSecret: "c6941fb25f030e1b97cb700ef95946a4");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
