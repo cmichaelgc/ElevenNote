@@ -52,8 +52,8 @@ namespace ElevenNote.Web
             //    clientSecret: "");
 
             //app.UseTwitterAuthentication(
-            //   consumerKey: "",
-            //   consumerSecret: "");
+             //  consumerKey: "",
+               //consumerSecret: "");
 
             app.UseFacebookAuthentication(
               appId: "275927649499302",
