@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Web", "ElevenNote.Web\ElevenNote.Web.csproj", "{F3DA49E0-7686-41E0-A43E-F6A85B9ABF7E}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "ElevenNote.Models\ElevenNote.Models.csproj", "{D769B3C3-1329-4390-958A-F5CFB21B12E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "ElevenNote.Services\ElevenNote.Services.csproj", "{F6F03587-1250-46C2-AF4C-EA0E2809EBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.API", "ElevenNote.API\ElevenNote.API.csproj", "{F648CAB0-D0BB-45C5-B3F0-1993E1DB5AA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F6F03587-1250-46C2-AF4C-EA0E2809EBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6F03587-1250-46C2-AF4C-EA0E2809EBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6F03587-1250-46C2-AF4C-EA0E2809EBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F648CAB0-D0BB-45C5-B3F0-1993E1DB5AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F648CAB0-D0BB-45C5-B3F0-1993E1DB5AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F648CAB0-D0BB-45C5-B3F0-1993E1DB5AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F648CAB0-D0BB-45C5-B3F0-1993E1DB5AA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
